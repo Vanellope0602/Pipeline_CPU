@@ -4,3 +4,6 @@ P5 task of BUAA CO course
 >一个人在考期，P8和头发之间，只能选择两样
 
 而我只能选择一样
+
+17个verilog文件为完整的流水线CPU
+两个测试程序
